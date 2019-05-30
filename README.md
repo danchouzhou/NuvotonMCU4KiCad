@@ -3,7 +3,7 @@ Nuvoton MCU KiCad symbol for general use
 
 ## Support device
 ### Cortex-M4 microcontroller
-M453 series: M453VG6AE, M453VD3AE, M453LG6AE, M453LE6AE, M453LD3AE, M453LC3AE<br>
+M453 series: M453VG6AE, M453VD3AE, M453LG6AE, M453LE6AE<br>
 NUC472 series (not recommended for new designs): NUC472VI8AE, NUC472VG8AE<br>
 ### Cortex-M0 microcontroller
 NUC220 series: NUC220LE3AN, NUC220LD2AN, NUC220LC2AN<br>
